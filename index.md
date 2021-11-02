@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to MM4M365Bot Page
 
-You can use the [editor on GitHub](https://github.com/JazzyMsft/MM4M365Bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Name of the project and organization: - MSFT Maturity Model Info Bot Deck for Microsoft Maturity Model
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description:
+The bot will inform people about the Maturity Model for Microsoft 365 (MM4M365) and guide them with questions and examples in order for them to understand what the Maturity Model is, identify the current maturity level for a process, business function or team/department they are interested in, identify the desired future state and give them options / a plan of action to elevate this. 
 
-### Markdown
+### Background:
+Currently there is a MS partner that is building out a maturity model for Microsoft products based on the CMMI (Capabilities Maturity Model Integration) utilizing MS products. The goal is to use this model for both internal and external Microsoft stakeholders.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Scope: 
+The bot will initially help the user identify what maturity level they currently stand at, identify where they want to go m and provide input on how to get to the next level. Additionally the bot will be expanded to look at specific competency maturity levels and give insights on how to reach the next maturity level along utilizing Microsoft technology.
 
-```markdown
-Syntax highlighted code block
+### Objectives:
+- Alert Microsoft Organization as a whole on the MM4M365
+-	Communicate best practices to Microsoft Customers and potential customers
+- Microsoft as a thought/technology leader in the competency spaces
 
-# Header 1
-## Header 2
-### Header 3
+### Deliverables
 
-- Bulleted
-- List
+- Build the framework
+- Build the Bot
+- Roadmap for future additions and Improvements 
 
-1. Numbered
-2. List
+### Areas or groups in the organization impacted by the change.
+-	Customer Success Business Unit 
+-	M365 Product Groups
+-	Microsoft M365 Current and potential customers
 
-**Bold** and _Italic_ and `Code` text
+### Primary sponsor (e.g. the business leader who is in a position to authorize and fund the change, and has sufficient power and control to implement the change)
+- Simon Hudson - Maturity Model for Microsoft 365 Practitioners
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JazzyMsft/MM4M365Bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Key managers and stakeholders (e.g. the group of managers and business leaders that have employees who are directly impacted by the change and/or have control over the people, processes or systems that are affected by the change).
+- Simon Hudson
+- CSM Manager (one of team members will be getting their manager as a stakeholder for this)
